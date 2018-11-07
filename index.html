@@ -5,8 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>kuaidjun's website</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to bottom, #000000 0%, #5788fe 100%);
+        }
+        .filter{
+        position: absolute;
+        z-index: 0;
+        width:100%;
+        height:100%;
+        line-height: 100%;
+        top:0;
+        left:0;
+        background: #fe5757;
+        animation: cochange 8s ease-in-out infinite;
+        animation-fill-mode: both;
+        mix-blend-mode: overlay;
+        color: #fff;
+        }
+        @keyframes cochange {
+            0%,
+            100% {
+                opacity: 0;
+            }
+            50% {
+                opacity: .9;
+            }
+        }
+        .main{
+            position: absolute;
+            z-index: 10;
+            top:50%;
+            margin-top:-25px;
+            width:100%;
+            height:50px;
+            line-height: 50px;
+            text-align: center;
+            color: #fff;
+        }
+    </style>
 </head>
+
 <body>
-    kuaidjun(快斗君) QQ:1028817941
+<div class="filter"></div>
+<div class="main">kuaidjn(快斗君) QQ:1028817941</div>
+</div>
+    
 </body>
+
 </html>
