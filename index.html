@@ -1,61 +1,409 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh">
+
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>kuaidjun's website</title>
-    <style>
-        html,
-        body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(to bottom, #000000 0%, #5788fe 100%);
-        }
-        .filter{
-        position: absolute;
-        z-index: 0;
-        width:100%;
-        height:100%;
-        line-height: 100%;
-        top:0;
-        left:0;
-        background: #fe5757;
-        animation: cochange 8s ease-in-out infinite;
-        animation-fill-mode: both;
-        mix-blend-mode: overlay;
-        color: #fff;
-        }
-        @keyframes cochange {
-            0%,
-            100% {
-                opacity: 0;
-            }
-            50% {
-                opacity: .9;
-            }
-        }
-        .main{
-            position: absolute;
-            z-index: 10;
-            top:50%;
-            margin-top:-25px;
-            width:100%;
-            height:50px;
-            line-height: 50px;
-            text-align: center;
-            color: #fff;
-        }
-    </style>
-</head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Web前端工程师简历-包应剑</title>
+<link href="./css/index.css" rel="stylesheet"></head>
 
 <body>
-<div class="filter"></div>
-<div class="main">kuaidjn(快斗君) QQ:1028817941</div>
-</div>
-    
-</body>
+  <div id="app">
+    <!-- 头部 -->
+    <div class="header fix">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-24 col-sm-4 col-md-4 col-lg-4 col-xl-4 col-md-offset-1 col-lg-offset-2">
+            <!-- logo -->
+            <div class="logo">
+              <a href="#" class="a" :style="{'background-image': 'url('+logoImg+')'}"></a>
+            </div>
+          </div>
+          <div
+            class="hidden-xs-only col-sm-18 col-md-16 col-lg-12 col-xl-8  col-sm-offset-1 col-md-offset-3 col-lg-offset-6 col-xl-offset-8">
+            <div class="box">
+              <ul class="nav-box">
+                <li class="nav-box-item active">
+                  <a class="a" href="">首页</a>
+                  <div class="line"></div>
+                </li>
+                <li class="nav-box-item"><a class="a" href="">关于我</a>
+                  <div class="line"></div>
+                </li>
+                <li class="nav-box-item"><a class="a" href="">个人项目</a>
+                  <div class="line"></div>
+                </li>
+                <li class="nav-box-item"><a class="a" href="">领导评价</a>
+                  <div class="line"></div>
+                </li>
+                <li class="nav-box-item"><a class="a" href="">荣誉奖项</a>
+                  <div class="line"></div>
+                </li>
+                <li class="nav-box-item"><a class="a" href="">联系方式</a>
+                  <div class="line"></div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 第一部分 -->
+    <div class="section-1" :style="{'background-image': 'url('+bgImg+')'}">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-24 col-sm-11 col-md-10 col-lg-9 col-sm-offset-1 col-md-offset-2 col-lg-offset-3">
+            <div class="left">
+              <h3 class="title-1">90后沙雕小青年</h3>
+              <div class="line"></div>
+              <h1 class="title-2">全栈工程师 · 包应剑</h1>
+              <div class="title-3">【 网名：米司特包 】</div>
+              <div class="line"></div>
+              <p class="introduce">什么叫“陌生化”？就是一种新鲜的、少见的、反常规的、反习惯的文字组合。比如“我抬头，看到一轮温暖的太阳”，就是普通的日常的文字…..</p>
+            </div>
+          </div>
+          <div class="col-xs-24 col-sm-11 col-md-10 col-lg-9">
+            <div class="right">
+              <img :src="persionImg" alt="" class="img">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 第二部分 -->
+    <div class="section-2">
+      <!-- 标题 -->
+      <div class="title">
+        <div class="container-fluid">
+          <div class="row">
+            <div
+              class="col-xs-24 col-sm-20 col-md-18 col-lg-14 col-xl-10 col-sm-offset-2 col-md-offset-3 col-lg-offset-5 col-xl-offset-7">
+              <div class="box">
+                <!-- 菜单 -->
+                <ul class="list-box">
+                  <!-- 菜单子项 -->
+                  <li class="lis-box-item active">
+                    <a href="" class="a">基本信息</a>
+                  </li>
+                  <li class="lis-box-item">
+                    <a href="" class="a">教育背景</a>
+                  </li>
+                  <li class="lis-box-item">
+                    <a href="" class="a">工作经验</a>
+                  </li>
+                  <li class="lis-box-item">
+                    <a href="" class="a">专业技能</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- 内容 -->
+      <div class="body">
+        <div class="container-fluid">
+          <div class="row">
+            <div
+              class="col-xs-24 col-sm-22 col-md-22 col-lg-22 col-xl-20 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-2">
+              <div class="box">
+                <ul class="list-box">
+                  <!-- 列表子项 -->
+                  <li class="lis-box-item-1">
+                    <div class="container-fluid">
+                      <div class="row">
+                        <div class="col-xs-24 col-sm-24 col-md-12">
+                          <div class="left">
+                            <img
+                              src="https://ccdn.goodq.top/caches/6e3f1e3d4f66af217d961de064f1e878/aHR0cDovLzVkYTE4YTZmYTZiYmQudDc0LnFpZmVpeWUuY29tL3FmeS1jb250ZW50L3VwbG9hZHMvMjAxOS8xMC8wZTM2M2U4MzliMjgyZjIxOTI3YTMyNWVjNWVkM2JmYi05MC53ZWJw.webp"
+                              alt="" class="img">
+                          </div>
+                        </div>
+                        <div class="col-xs-24 col-sm-24 col-md-12">
+                          <div class="right">
+                            <div class="title-1">关于我 <span>/about me</span></div>
+                            <div class="title-2">姓名：包应剑</div>
+                            <div class="title-2">名族：汉</div>
+                            <div class="title-2">出生日期：1996-09-18</div>
+                            <div class="title-2">电话：15107573361</div>
+                            <div class="title-2">邮箱：misitebaoo@163.com</div>
+                            <div class="title-2">特长：前端开发丨后端开发丨桌面端开发丨手机APP开发</div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                  </li>
+                  <!-- <li class="lis-box-item">哥哥
+                  </li>
+                  <li class="lis-box-item">哥哥
+                  </li>
+                  <li class="lis-box-item">哥哥
+                  </li> -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 第三部分 -->
+    <div class="section-3">
+      <div class="container-fluid">
+        <div class="row">
+          <div
+            class="col-xs-24 col-sm-22 col-md-22 col-lg-22 col-xl-20 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-2">
+            <div class="box">
+              <!-- 标题 -->
+              <div class="title">
+                <div class="title-1">个人项目</div>
+                <div class="title-2">参与的项目</div>
+              </div>
+              <!-- 主体 -->
+              <div class="body">
+                <div class="container-fluid">
+                  <div class="row">
+                    <!-- 边距框 -->
+                    <div class="col-xs-22 col-xs-offset-1">
+                      <!-- 容器 -->
+                      <div class="container-fluid">
+                        <div class="row">
+                          <!-- 列 -->
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=1" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">
+                                    您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=2" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=3" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=4" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=5" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=6" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=7" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=8" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=9" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-xs-24 col-sm-12 col-md-12 col-lg-8 col-xl-6">
+                            <div class="box">
+                              <div class="img-box">
+                                <img src="https://picsum.photos/200/300?v=10" alt="" class="img">
+                              </div>
+                              <div class="text-box">
+                                <div class="body">
+                                  <div class="title-1">项目一</div>
+                                  <div class="title-2">外国语学校</div>
+                                  <div class="title-3">您可以双击这里或者点击编辑按钮来修改内容，您还可以添加图标按钮图片等常用元素。</div>
+                                  <div class="btn"><a href="" class="a">查看项目</a></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 第四部分 -->
+    <div class="section-4">
+      <div class="container-fluid">
+        <div class="row">
+          <div
+            class="col-xs-24 col-sm-22 col-md-22 col-lg-22 col-xl-20 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-2">
+            <div class="box">55555</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 第五部分 -->
+    <div class="section-5">
+      <div class="container-fluid">
+        <div class="row">
+          <div
+            class="col-xs-24 col-sm-22 col-md-22 col-lg-22 col-xl-20 col-sm-offset-1 col-md-offset-1 col-lg-offset-1 col-xl-offset-2">
+            <div class="box">555</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- 底部 -->
+    <div class="footer">
+      <div class="title-1">Contact me!</div>
+      <div class="title-2">联系我吧</div>
+      <div class="content">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-24 col-sm-24 col-md-6 col-sm-offset-0 col-md-offset-3">
+              <div class="box">
+                <img :src="logoImg" alt="" class="img">
+              </div>
+            </div>
+            <div class="col-xs-24 col-sm-24 col-md-6 col-sm-offset-0">
+              <div class="box">
+                <div class="phone">电话：15107573361</div>
+                <div class="email">邮箱：misitebaoo@163.com</div>
+              </div>
+            </div>
+            <div class="col-xs-24 col-sm-24 col-md-6 col-sm-offset-0">
+              <div class="box">
+                <ul class="list-box">
+                  <li class="list-box-item" :style="{'background-image': 'url('+bgIcon+')'}"></li>
+                  <li class="list-box-item" :style="{'background-image': 'url('+bgIcon+')'}"></li>
+                  <li class="list-box-item" :style="{'background-image': 'url('+bgIcon+')'}"></li>
+                  <li class="list-box-item" :style="{'background-image': 'url('+bgIcon+')'}"></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright">版权所有 ©2015 – 2020 包应剑【米司特包】的个人简介</div>
+    </div>
+  </div>
+<script type="text/javascript" src="index.js"></script></body>
 
 </html>
