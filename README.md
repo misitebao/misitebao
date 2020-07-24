@@ -1,6 +1,6 @@
-### Hi 👋 My self introduction | 我的个人信息 👇
-
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
+
+### Hi 👋 My self introduction | 我的个人信息 👇
 
 * 🔭 I’m currently working on NodeJS Golang | 我使用NodeJS、Golang工作
 * 🌱 I’m currently learning Golang | 现在正在学习Golang
@@ -21,6 +21,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true)
 <!-- 
+
 ### My Repo | 开源仓库
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogf&repo=gf)](https://github.com/gogf/gf)
