@@ -1,6 +1,6 @@
 ### Hi 👋 My self introduction:👇
 
-![](img/slogan.png)
+![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/slogan.png)
 - 🔭 I’m currently working on NodeJS Golang
 - 🌱 I’m currently learning Golang 
 - 👯 I’m looking to collaborate on contribute to interesting open source projects together
