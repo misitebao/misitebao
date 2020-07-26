@@ -17,9 +17,9 @@
 * [🤔 Blog | 个人博客](https://blog.misitebao.com)
 * [🤔 Full Stack Manual | 全栈知识手册](https://book.misitebao.com)
 
-### My Github | 我的Github
+<!-- ### My Github | 我的Github -->
 
-![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true) -->
 <!-- 
 
 ### My Repo | 开源仓库
