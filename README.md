@@ -16,6 +16,7 @@
 
 * [🤔 Blog | 个人博客](https://blog.misitebao.com)
 * [🤔 Full Stack Manual | 全栈知识手册](https://book.misitebao.com)
+* [🤔 X-Vue-Admin](http://x-vue-admin.com/)
 
 <!-- ### My Github | 我的Github -->
 
