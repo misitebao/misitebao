@@ -1,30 +1,30 @@
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
-### Hi ?? My self introduction | ÎÒµÄ¸öÈËĞÅÏ¢ ??
+### Hi ğŸ‘‹ My self introduction | æˆ‘çš„ä¸ªäººä¿¡æ¯ ğŸ‘‡
 
-* ?? I¡¯m currently working on NodeJS Golang | ÎÒÊ¹ÓÃNodeJS¡¢Golang¹¤×÷
-* ?? I¡¯m currently learning Golang | ÏÖÔÚÕıÔÚÑ§Ï°Golang
-* ?? I¡¯m looking to collaborate on contribute to interesting open source projects together | ÎÒÕıÔÚÑ°ÇóºÏ×÷£¬¹²Í¬ÎªÓĞÈ¤µÄ¿ªÔ´ÏîÄ¿×ö³ö¹±Ï×
-* ?? Ask me about Wechat£ºmisitebao_work | Î¢ĞÅÁªÏµÎÒ£ºmisitebao_work
-* ?? How to reach me: i@misitebao.com | ÓÊÏäÁªÏµÎÒ£ºi@misitebao.com
-* ?? Pronouns: There are 10 kinds of people in the world, one knows binary system and the other doesn't understand binary system | ±êÓï£ºÊÀ½çÉÏÓĞ10??ÖÖÈË£¬Ò»ÖÖ¶®¶ş½øÖÆ£¬ÁíÒ»ÖÖ²»¶®¶ş½øÖÆ
-* ? Fun fact: Study hard and make progress every day | ÓĞÈ¤µÄÊÂÊµ£ººÃºÃÑ§Ï° ÌìÌìÏòÉÏ
+* ğŸ”­ Iâ€™m currently working on NodeJS Golang | æˆ‘ä½¿ç”¨NodeJSã€Golangå·¥ä½œ
+* ğŸŒ± Iâ€™m currently learning Golang | ç°åœ¨æ­£åœ¨å­¦ä¹ Golang
+* ğŸ‘¯ Iâ€™m looking to collaborate on contribute to interesting open source projects together | æˆ‘æ­£åœ¨å¯»æ±‚åˆä½œï¼Œå…±åŒä¸ºæœ‰è¶£çš„å¼€æºé¡¹ç›®åšå‡ºè´¡çŒ®
+* ğŸ’¬ Ask me about Wechatï¼šmisitebao_work | å¾®ä¿¡è”ç³»æˆ‘ï¼šmisitebao_work
+* ğŸ“« How to reach me: i@misitebao.com | é‚®ç®±è”ç³»æˆ‘ï¼ši@misitebao.com
+* ğŸ˜„ Pronouns: There are 10 kinds of people in the world, one knows binary system and the other doesn't understand binary system | æ ‡è¯­ï¼šä¸–ç•Œä¸Šæœ‰10â€‹â€‹ç§äººï¼Œä¸€ç§æ‡‚äºŒè¿›åˆ¶ï¼Œå¦ä¸€ç§ä¸æ‡‚äºŒè¿›åˆ¶
+* âš¡ Fun fact: Study hard and make progress every day | æœ‰è¶£çš„äº‹å®ï¼šå¥½å¥½å­¦ä¹  å¤©å¤©å‘ä¸Š
 
-<!-- - ?? Hasakei -->
+<!-- - ğŸ¤” Hasakei -->
 
-### My WebSite | ÎÒµÄÍøÕ¾
+### My WebSite | æˆ‘çš„ç½‘ç«™
 
-* [?? Blog | ¸öÈË²©¿Í](https://blog.misitebao.com)
-* [?? TigaUI | »ùÓÚVue3.xµÄ¸ßÖÊÁ¿×é¼ş¿â](https://tigaui.tigateam.com/)
-* [?? Full Stack Manual | È«Õ»ÖªÊ¶ÊÖ²á](https://manual.fullstacklover.com/)
-* [?? X-Vue-Admin](http://x-vue-admin.com/)
+* [ğŸ¤” Blog | ä¸ªäººåšå®¢](https://blog.misitebao.com)
+* [ğŸ¤” TigaUI | åŸºäºVue3.xçš„é«˜è´¨é‡ç»„ä»¶åº“](https://tigaui.tigateam.com/)
+* [ğŸ¤” Full Stack Manual | å…¨æ ˆçŸ¥è¯†æ‰‹å†Œ](https://manual.fullstacklover.com/)
+* [ğŸ¤” X-Vue-Admin](http://x-vue-admin.com/)
 
-<!-- ### My Github | ÎÒµÄGithub -->
+<!-- ### My Github | æˆ‘çš„Github -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true) -->
 <!-- 
 
-### My Repo | ¿ªÔ´²Ö¿â
+### My Repo | å¼€æºä»“åº“
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogf&repo=gf)](https://github.com/gogf/gf)
 
