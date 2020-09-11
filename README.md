@@ -21,7 +21,7 @@
 ### My Project | 项目
 
 * [🤔 TigaUI | 基于 `Vue3.x` 的高质量组件库](https://tigaui.tigateam.com/) *正在开发中。。。*
-* [🤔 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigaui.tigateam.com/) *正在开发中。。。*
+* [🤔 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigago.tigateam.com/) *正在开发中。。。*
 
 <!-- ### My Github | 我的Github -->
 
