@@ -29,10 +29,13 @@
 
 ### My Project | 项目
 
-- [🤔 TigaUI | 基于 `Vue3.x` 的高质量组件库](https://tigaui.tigateam.com/) _正在开发中。。。_
-- [🤔 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigago.tigateam.com/) _正在开发中。。。_
-- [🤔 Mebius | 基于 `Golang` 和 `Markdown` 的静态网站生成器](https://mebius.tigateam.com/) _正在开发中。。。_
-- [🤔 Tigago-Vue-Admin | 基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://tigago-vue-admin.tigateam.com/) _正在开发中。。。_
+- [😂 TigaUI | 基于 `Vue3.x` 的高质量组件库](https://tigaui.tigateam.com/) _正在开发中。。。_
+- [😂 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigago.tigateam.com/) _正在开发中。。。_
+- [😂 Mebius | 基于 `Golang` 和 `Markdown` 的静态网站生成器](https://mebius.tigateam.com/) _正在开发中。。。_
+- [😂 Tigago-Vue-Admin | 基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://tigago-vue-admin.tigateam.com/) _正在开发中。。。_
+
+- [🤗 Wails | 一个支持使用 Go 和 Web 技术构建桌面应用程序的跨平台框架](https://wails.app/)
+- [🤗 Vitepress](https://vitepress.vuejs.org/)
 
 <!-- ### My Github | 我的Github -->
 
