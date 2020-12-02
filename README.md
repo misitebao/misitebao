@@ -24,7 +24,7 @@
 - [🤔 TigaUI | 基于 `Vue3.x` 的高质量组件库](https://tigaui.tigateam.com/) _正在开发中。。。_
 - [🤔 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigago.tigateam.com/) _正在开发中。。。_
 - [🤔 Mebius | 基于 `Markdown` 的静态网站生成器](https://mebius.tigateam.com/) _正在开发中。。。_
-- [🤔 Tigago-Vue-Admin | 基于 Tigago 和 Vue 的后台管理系统模板](https://tigago-vue-admin.tigateam.com/) _正在开发中。。。_
+- [🤔 Tigago-Vue-Admin | 基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://tigago-vue-admin.tigateam.com/) _正在开发中。。。_
 
 <!-- ### My Github | 我的Github -->
 
