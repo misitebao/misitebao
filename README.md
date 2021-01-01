@@ -14,16 +14,23 @@
 
 ### My WebSite | 网站
 
+#### Personal | 个人
+
 - [🤔 Blog | 个人博客](https://blog.misitebao.com)
 - [🤔 FullStackLover | 全栈爱好者](https://fullstacklover.com)
 - [🤔 Full Stack Manual | 全栈知识手册](https://manual.fullstacklover.com/)
 - [🤔 X-Vue-Admin | 基于 `Vue` 的后台管理系统集合](http://x-vue-admin.com/)
 
+#### Social Platforms | 社交平台
+
+- [Bilibili](https://space.bilibili.com/97480642/)
+- [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3gv)
+
 ### My Project | 项目
 
 - [🤔 TigaUI | 基于 `Vue3.x` 的高质量组件库](https://tigaui.tigateam.com/) _正在开发中。。。_
 - [🤔 Tigago | 基于 `Golang` 的模块化 `Web` 开发框架](https://tigago.tigateam.com/) _正在开发中。。。_
-- [🤔 Mebius | 基于 `Markdown` 的静态网站生成器](https://mebius.tigateam.com/) _正在开发中。。。_
+- [🤔 Mebius | 基于 `Golang` 和 `Markdown` 的静态网站生成器](https://mebius.tigateam.com/) _正在开发中。。。_
 - [🤔 Tigago-Vue-Admin | 基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://tigago-vue-admin.tigateam.com/) _正在开发中。。。_
 
 <!-- ### My Github | 我的Github -->
