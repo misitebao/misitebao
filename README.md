@@ -24,7 +24,7 @@
 #### Social Platforms | 社交平台
 
 - [Bilibili](https://space.bilibili.com/97480642/)
-- [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3gv)
+- [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
 
 ### My Project | 项目
 
