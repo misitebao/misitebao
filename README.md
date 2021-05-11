@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
+<!-- ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png) -->
 
 ### Hi 👋 My self introduction | 我的个人信息 👇
 
@@ -44,9 +44,9 @@
 - [🤗 Wails | 一个支持使用 Go 和 Web 技术构建桌面应用程序的跨平台框架](https://wails.app/)
 - [🤗 Vitepress](https://vitepress.vuejs.org/)
 
-### My Github | 我的 Github
+<!-- ### My Github | 我的 Github -->
 
-![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true) -->
 
 <!--
 
