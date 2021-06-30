@@ -1,10 +1,10 @@
 <!-- ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png) -->
 
-English | [简体中文](README.zh-hans.md)
+[English](README.md) | 简体中文
 
-### Hi 👋 My self introduction 👇
+### 👋 我的个人信息 👇
 
-- 🔭 I’m currently working on NodeJS Go.
+- 🔭 我使用 `NodeJS` 、`Go` 工作
 - 🌱 I’m currently learning Golang | 现在正在学习 `Go`
 - 👯 I’m looking to collaborate on contribute to interesting open source projects together | 我正在寻求合作，共同为有趣的开源项目做出贡献
 - 💬 Ask me about Wechat：misitebao_work | 微信联系我：`misitebao_work`
