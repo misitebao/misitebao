@@ -25,9 +25,9 @@
 
 #### 社交平台
 
-- [Bilibili](https://space.bilibili.com/97480642/)
-- [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
-- [Twitter](https://twitter.com/misitebao)
+- [哔哩哔哩](https://space.bilibili.com/97480642/)
+- [油管](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
+- [推特](https://twitter.com/misitebao)
 
 ### 项目
 
