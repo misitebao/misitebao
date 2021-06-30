@@ -21,7 +21,7 @@ English | [简体中文](README.zh-hans.md)
 - [🤔 FullStackLover](https://fullstacklover.com)
 - [🤔 FullStack Manual](https://manual.fullstacklover.com/)
 - [🤔 X-Vue-Admin: Background management system scaffolding](http://x-vue-admin.com/)
-- [🤔 TigaTeam Website](http://tigateam.org) _正在开发中。。。_
+- [🤔 TigaTeam Website](http://tigateam.org) _developing..._
 
 #### Social Platforms
 
@@ -31,10 +31,10 @@ English | [简体中文](README.zh-hans.md)
 
 ### My Project
 
-- [😂 Tigaui: A Vue3.x component library based on tiga design](https://tigaui.tigateam.org/) _正在开发中。。。_
-- [😂 Tigago: Modular `Web` development framework based on `Go`](https://tigago.tigateam.org/) _正在开发中。。。_
-- [😂 Mebius: Static website generator based on `Go` and `Markdown`](https://mebius.tigateam.org/) _正在开发中。。。_
-- [😂 Tigago-vue-admin: Background management system template based on `Tigago` and `Vue`](https://tigago-vue-admin.tigateam.org/) _正在开发中。。。_
+- [😂 Tigaui: A Vue3.x component library based on tiga design](https://tigaui.tigateam.org/) _developing..._
+- [😂 Tigago: Modular `Web` development framework based on `Go`](https://tigago.tigateam.org/) _developing..._
+- [😂 Mebius: Static website generator based on `Go` and `Markdown`](https://mebius.tigateam.org/) _developing..._
+- [😂 Tigago-vue-admin: Background management system template based on `Tigago` and `Vue`](https://tigago-vue-admin.tigateam.org/) _developing..._
 - [😂 Template-git-repository: Git open source project template](https://github.com/misitebao/template-git-repository)
 - [😂 Template-multi-page-vue-ssr: A multi-page server-side rendering project template based on Webpack + Vue](https://github.com/misitebao/template-multi-page-vue-ssr)
 - [😂 Learning-go: Go language study notes](https://github.com/misitebao/learning-go)
