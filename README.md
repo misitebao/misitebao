@@ -1,8 +1,10 @@
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
-English | [简体中文](README.zh-hans.md)
+English | [简体中文](README.zh-Hans.md)
 
 ### Hi 👋 My self introduction 👇
+
+<img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🔭 I’m currently working on `JavaScript` `NodeJS` `Go`.
 - 🌱 I’m currently learning Golang
