@@ -4,7 +4,9 @@ English | [简体中文](README.zh-Hans.md)
 
 ### Hi 👋 My self introduction 👇
 
-<img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<p height="0">
+  <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+</p>
 
 - 🔭 I’m currently working on `JavaScript` `NodeJS` `Go`.
 - 🌱 I’m currently learning Golang
