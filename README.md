@@ -6,7 +6,7 @@
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=blueberry" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=buefy" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </a>
 </p>
 
