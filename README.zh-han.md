@@ -1,4 +1,4 @@
-<!-- ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png) -->
+![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
 [English](README.md) | 简体中文
 
@@ -17,6 +17,7 @@
 
 #### 个人
 
+- [🤔 主页](https://misitebao.com)
 - [🤔 米司博客](https://blog.misitebao.com)
 - [🤔 全栈爱好者](https://fullstacklover.com)
 - [🤔 全栈手册](https://manual.fullstacklover.com/)
@@ -31,15 +32,17 @@
 
 ### 项目
 
-- [😂 Tigaui：一个基于 Tiga Design 的 Vue3.x 组件库](https://tigaui.tigateam.org/) _正在开发中。。。_
-- [😂 Tigago：基于 `Go` 的模块化 `Web` 开发框架](https://tigago.tigateam.org/) _正在开发中。。。_
-- [😂 Mebius：基于 `Go` 和 `Markdown` 的静态网站生成器](https://mebius.tigateam.org/) _正在开发中。。。_
-- [😂 Tigago-vue-admin：基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://tigago-vue-admin.tigateam.org/) _正在开发中。。。_
+#### 个人
+
+- [😂 Tigaui：一个基于 Tiga Design 的 Vue3.x 组件库](https://github.com/tigateam/tigaui) _正在开发中。。。_
+- [😂 Tigago：基于 `Go` 的模块化 `Web` 开发框架](https://github.com/tigateam/tigago) _正在开发中。。。_
+- [😂 Mebius：基于 `Go` 和 `Markdown` 的静态网站生成器](https://github.com/tigateam/mebius) _正在开发中。。。_
+- [😂 Tigago-vue-admin：基于 `Tigago` 和 `Vue` 的后台管理系统模板](https://github.com/tigateam/tigago-vue-admin) _正在开发中。。。_
 - [😂 Template-git-repository：Git 开源项目模板](https://github.com/misitebao/template-git-repository)
 - [😂 Template-multi-page-vue-ssr：一个基于 Webpack + Vue 的多页面服务端渲染项目模板](https://github.com/misitebao/template-multi-page-vue-ssr)
 - [😂 Learning-go：Go 语言学习笔记](https://github.com/misitebao/learning-go)
 
-#### 参与贡献
+#### 贡献
 
 - [🤗 Wails：一个支持使用 Go 和 Web 技术构建桌面应用程序的跨平台框架](https://wails.app/)
 - [🤗 Vitepress](https://vitepress.vuejs.org/)
