@@ -1,8 +1,14 @@
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
-[English](README.md) | 简体中文
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
 ### 👋 我的个人信息 👇
+
+<p style="height:0">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=blueberry" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+  </a>
+</p>
 
 - 🔭 我使用 `JavaScript` `NodeJS` `Go` 工作
 - 🌱 现在正在学习 `Go`
@@ -46,19 +52,3 @@
 
 - [🤗 Wails：一个支持使用 Go 和 Web 技术构建桌面应用程序的跨平台框架](https://wails.app/)
 - [🤗 Vitepress](https://vitepress.vuejs.org/)
-
-<!-- ### My Github | 我的 Github -->
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true) -->
-
-<!--
-
-### My Repo | 开源仓库
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogf&repo=gf)](https://github.com/gogf/gf)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=template-multi-page-vue-ssr)](https://github.com/misitebao/template-multi-page-vue-ssr)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=full-stack-manual)](https://github.com/misitebao/full-stack-manual)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=quality-repository)](https://github.com/misitebao/quality-repository) -->

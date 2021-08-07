@@ -1,12 +1,12 @@
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
-English | [简体中文](README.zh-Hans.md)
+[English](README.md) | [简体中文](README.zh-Hans.md)
 
 ### Hi 👋 My self introduction 👇
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=blueberry" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </a>
 </p>
 
@@ -51,17 +51,3 @@ English | [简体中文](README.zh-Hans.md)
 
 - [🤗 Wails: A cross-platform framework that supports the use of Go and Web technologies to build desktop applications](https://wails.app/)
 - [🤗 Vitepress](https://vitepress.vuejs.org/)
-
-### My Github
-
-![](https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true)
-
-### My Repo
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gogf&repo=gf)](https://github.com/gogf/gf)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=template-multi-page-vue-ssr)](https://github.com/misitebao/template-multi-page-vue-ssr)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=full-stack-manual)](https://github.com/misitebao/full-stack-manual)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=quality-repository)](https://github.com/misitebao/quality-repository)
