@@ -4,7 +4,7 @@ English | [简体中文](README.zh-Hans.md)
 
 ### Hi 👋 My self introduction 👇
 
-<p height="0">
+<p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </a>
