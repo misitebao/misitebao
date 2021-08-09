@@ -14,7 +14,7 @@
 - 🌱 现在正在学习 `Go` `Unity` `Blender`
 - 👯 我正在寻求合作，共同为有趣的开源项目做出贡献
 - 💬 微信联系我：`misitebao_work`
-- ⚡ Slack & Telegram & Twitter & Weibo 联系我：@misitebao
+- ⚡ Slack/Telegram/Twitter/Weibo 联系我：@misitebao
 - 📫 邮箱联系我：`i@misitebao.com`
 - 😄 标语：世界上有 10​​ 种人，一种懂二进制，另一种不懂二进制
 - 🍊 有趣的事实：好好学习 天天向上
