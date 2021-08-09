@@ -11,10 +11,10 @@
 </p>
 
 - 🔭 I’m currently working on `JavaScript` `NodeJS` `Go`.
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning `Go` `Unity` `Blender`
 - 👯 I’m looking to collaborate on contribute to interesting open source projects together
 - 💬 Ask me about Wechat: misitebao_work
-- ⚡ Ask me about Slack & Telegram & Twitter: @misitebao
+- ⚡ Ask me about Slack & Telegram & Twitter & Weibo: @misitebao
 - 📫 How to reach me: i@misitebao.com
 - 😄 Pronouns: There are 10 kinds of people in the world, one knows binary system and the other doesn't understand binary system
 - 🍊 Fun fact: Study hard and make progress every day
