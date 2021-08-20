@@ -1,6 +1,6 @@
 ![](https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png)
 
-[English](README.md) | [简体中文](README.zh-Hans.md)
+[**English**](README.md) | [**简体中文**](README.zh-Hans.md)
 
 ### Hi 👋 My self introduction 👇
 
