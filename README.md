@@ -39,15 +39,16 @@
 
 #### Personal
 
-- [😂 Tigaui: A Vue3.x component library based on tiga design](https://github.com/tigateam/tigaui) _developing..._
-- [😂 Tigago: Modular `Web` development framework based on `Go`](https://github.com/tigateam/tigago) _developing..._
-- [😂 Mebius: Static website generator based on `Go` and `Markdown`](https://github.com/tigateam/mebius) _developing..._
+- [😂 Tigaui: 🎨 Tigaui is a high quality component library based on Vue](https://github.com/tigateam/tigaui) _developing..._
+- [😂 Tigago: 🍟 A modular framework based on Go language](https://github.com/tigateam/tigago) _developing..._
+- [😂 Mebius: 📄 Mebius is a static website generator based on Go and Markdown](https://github.com/tigateam/mebius) _developing..._
 - [😂 Tigago-vue-admin: Background management system template based on `Tigago` and `Vue`](https://github.com/tigateam/tigago-vue-admin) _developing..._
-- [😂 Template-git-repository: Git open source project template](https://github.com/misitebao/template-git-repository)
+- [😂 Standard Repository: 🚀 Standard Repository Template](https://github.com/misitebao/standard-repository)
 - [😂 Template-multi-page-vue-ssr: A multi-page server-side rendering project template based on Webpack + Vue](https://github.com/misitebao/template-multi-page-vue-ssr)
 - [😂 Learning-go: Go language study notes](https://github.com/misitebao/learning-go)
 
 #### Contributor
 
 - [🤗 Wails: A cross-platform framework that supports the use of Go and Web technologies to build desktop applications](https://wails.app/)
+- [🤗 Vite](https://vitejs.dev/)
 - [🤗 Vitepress](https://vitepress.vuejs.org/)
