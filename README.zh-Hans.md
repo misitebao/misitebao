@@ -35,22 +35,24 @@
 
 #### 社交平台
 
-- [哔哩哔哩](https://space.bilibili.com/97480642/)
-- [油管](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
+- [微博](https://weibo.com/misitebao)
 - [推特](https://twitter.com/misitebao)
+- [哔哩哔哩](https://space.bilibili.com/97480642/)
+- [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
 
 ### 项目
 
 #### 个人
 
-- [😂 Tigaui](https://github.com/tigateam/tigaui) - 🎨 Tigaui 是基于 Vue 的高质量组件库。 _正在开发中。。。_
-- [😂 Tigago](https://github.com/tigateam/tigago) - 🍟 基于 Go 语言的模块化框架。 _正在开发中。。。_
-- [😂 Mebius](https://github.com/tigateam/mebius) - 📄 Mebius 是一个基于 Go 和 Markdown 的静态网站生成器。 _正在开发中。。。_
-- [😂 tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - 基于 `Tigago` 和 `Vue` 的后台管理系统模板。 _正在开发中。。。_
+- [😂 Tigaui](https://github.com/tigateam/tigaui) - Tigaui 是基于 Vue 的高质量组件库。 _正在开发中。。。_
+- [😂 Tigago](https://github.com/tigateam/tigago) - 基于 Go 语言的模块化框架。 _正在开发中。。。_
+- [😂 Mebius](https://github.com/tigateam/mebius) - Mebius 是一个基于 Go 和 Markdown 的静态网站生成器。 _正在开发中。。。_
+- [😂 tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - 基于 Tigago 和 Vue 的后台管理系统模板。 _正在开发中。。。_
 - [😂 Standard Repository](https://github.com/misitebao/standard-repository) - 🚀 标准存储库模板。
 - [😂 template-multi-page-vue-ssr](https://github.com/misitebao/template-multi-page-vue-ssr) - 一个基于 Webpack + Vue 的多页面服务端渲染项目模板。
 - [😂 learning-go](https://github.com/misitebao/learning-go) - Go 语言学习笔记。
 - [😂 wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板。
+- [😂 Awesome Wails](https://github.com/misitebao/awesome-wails) - 精心挑选的 Wails 应用程序列表。
 
 #### 贡献
 

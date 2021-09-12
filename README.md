@@ -35,22 +35,24 @@
 
 #### Social Platforms
 
+- [Weibo](https://weibo.com/misitebao)
+- [Twitter](https://twitter.com/misitebao)
 - [Bilibili](https://space.bilibili.com/97480642/)
 - [Youtube](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
-- [Twitter](https://twitter.com/misitebao)
 
 ### Project
 
 #### Personal
 
-- [😂 Tigaui](https://github.com/tigateam/tigaui) - 🎨 Tigaui is a high quality component library based on Vue. _developing..._
-- [😂 Tigago](https://github.com/tigateam/tigago) - 🍟 A modular framework based on Go language. _developing..._
-- [😂 Mebius](https://github.com/tigateam/mebius) - 📄 Mebius is a static website generator based on Go and Markdown. _developing..._
+- [😂 Tigaui](https://github.com/tigateam/tigaui) - Tigaui is a high quality component library based on Vue. _developing..._
+- [😂 Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language. _developing..._
+- [😂 Mebius](https://github.com/tigateam/mebius) - Mebius is a static website generator based on Go and Markdown. _developing..._
 - [😂 tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - Background management system template based on `Tigago` and `Vue`. _developing..._
 - [😂 Standard Repository](https://github.com/misitebao/standard-repository) - 🚀 Standard Repository Template.
 - [😂 template-multi-page-vue-ssr](https://github.com/misitebao/template-multi-page-vue-ssr) - A multi-page server-side rendering project template based on Webpack + Vue.
 - [😂 learning-go](https://github.com/misitebao/learning-go) - Go language study notes.
-- [😂 wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router
+- [😂 wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router.
+- [😂 Awesome Wails](https://github.com/misitebao/awesome-wails) - A carefully selected list of Wails applications.
 
 #### Contributor
 
