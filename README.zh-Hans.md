@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://misitebao.com">
-    <img src="https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png" alt="misitebao" />
+    <img src="https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png" title="米司特包个人主页" alt="米司特包个人主页" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=buefy" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=buefy" title="Github统计数据" alt="Github统计数据" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </a>
 </p>
 

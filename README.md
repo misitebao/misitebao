@@ -1,16 +1,16 @@
 <p align="center">
   <a href="https://misitebao.com">
-    <img src="https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png" alt="misitebao" />
+    <img src="https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png" title="Misitebao Homepage" alt="Misitebao Homepage" />
   </a>
 </p>
 
 [**English**](README.md) | [**简体中文**](README.zh-Hans.md)
 
-### Hi 👋 My self introduction 👇 <img src="https://profile-counter.glitch.me/misitebao/count.svg" title="visitor count" alt="visitor count" align="right" style="" />
+### Hi 👋 My self introduction 👇 <img src="https://profile-counter.glitch.me/misitebao/count.svg" title="Visitor Count" alt="Visitor Count" align="right" style="" />
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=buefy" alt="misitebao logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=misitebao&show_icons=true&theme=buefy" title="Github Stats" alt="Github Stats" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </a>
 </p>
 
