@@ -6,7 +6,7 @@
 
 [**English**](README.md) | [**简体中文**](README.zh-Hans.md)
 
-### Hi 👋 My self introduction 👇 <img src="https://profile-counter.glitch.me/misitebao/count.svg" alt="visitor count" align="right" style="" />
+### Hi 👋 My self introduction 👇 <img src="https://profile-counter.glitch.me/misitebao/count.svg" title="visitor count" alt="visitor count" align="right" style="" />
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">

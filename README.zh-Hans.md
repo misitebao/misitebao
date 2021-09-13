@@ -6,7 +6,7 @@
 
 [**English**](README.md) | [**简体中文**](README.zh-Hans.md)
 
-### 👋 我的个人信息 👇
+### 👋 我的个人信息 👇 <img src="https://profile-counter.glitch.me/misitebao/count.svg" title="访问量" alt="访问量" align="right" style="" />
 
 <p style="height:0">
   <a href="https://github.com/anuraghazra/github-readme-stats">
