@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo&logoColor=f56e35" title="微博" alt="微博" />
   </a>
   <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
-    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-8192fb?style=flat-square&logo=tencentqq&logoColor=8192fb" title="QQ" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="QQ" alt="QQ" />
   </a>
   <a href="https://space.bilibili.com/97480642/">
     <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="哔哩哔哩" alt="哔哩哔哩" />
