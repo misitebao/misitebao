@@ -23,6 +23,27 @@
 - 😄 标语：世界上有 10​​ 种人，一种懂二进制，另一种不懂二进制
 - 🍊 有趣的事实：好好学习 天天向上
 
+<p align="center">
+  <a href="https://twitter.com/misitebao">
+    <img src="https://img.shields.io/badge/%E6%8E%A8%E7%89%B9-Misitebao-1d9bf0?style=flat-square&logo=twitter" title="推特" alt="推特" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g">
+    <img src="https://img.shields.io/badge/Youtube-Misitebao-ff0000?style=flat-square&logo=youtube" title="Youtube" alt="Youtube" />
+  </a>
+  <a href="https://www.zhihu.com/people/misitebao">
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=flat-square&logo=zhihu" title="知乎" alt="知乎" />
+  </a>
+  <a href="https://weibo.com/misitebao">
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo" title="微博" alt="微博" />
+  </a>
+  <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
+    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=tencentqq" title="QQ" alt="QQ" />
+  </a>
+  <a href="https://space.bilibili.com/97480642/">
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="哔哩哔哩" alt="哔哩哔哩" />
+  </a>
+</p>
+
 ### 网站
 
 #### 个人
