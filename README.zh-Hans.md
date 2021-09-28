@@ -25,25 +25,25 @@
 
 <p align="left">
   <a href="https://twitter.com/misitebao">
-    <img src="https://img.shields.io/badge/%E6%8E%A8%E7%89%B9-Misitebao-1d9bf0?style=flat-square&logo=twitter" title="推特" alt="推特" />
+    <img src="https://img.shields.io/badge/%E6%8E%A8%E7%89%B9-Misitebao-1d9bf0?style=flat-square&logo=twitter" title="点击访问我的推特主页" alt="推特" />
   </a>
   <a href="https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g">
-    <img src="https://img.shields.io/badge/Youtube-Misitebao-ff0000?style=flat-square&logo=youtube&logoColor=ff0000" title="Youtube" alt="Youtube" />
+    <img src="https://img.shields.io/badge/Youtube-Misitebao-ff0000?style=flat-square&logo=youtube&logoColor=ff0000" title="点击访问我的Youtube频道" alt="Youtube" />
   </a>
   <a href="https://www.zhihu.com/people/misitebao">
-    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=flat-square&logo=zhihu" title="知乎" alt="知乎" />
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=flat-square&logo=zhihu" title="点击访问我的知乎主页" alt="知乎" />
   </a>
   <a href="https://weibo.com/misitebao">
-    <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo&logoColor=f56e35" title="微博" alt="微博" />
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo&logoColor=f56e35" title="点击访问我的微博主页" alt="微博" />
   </a>
   <a href="https://space.bilibili.com/97480642/">
-    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="哔哩哔哩" alt="哔哩哔哩" />
+    <img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="点击访问我的哔哩哔哩空间" alt="哔哩哔哩" />
   </a>
   <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
-    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="QQ" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="点击添加QQ好友" alt="QQ" />
   </a>
   <a href="https://cdn.jsdelivr.net/gh/misitebao/misitebao@main/img/wechat-misitebao_work.jpg">
-    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=flat-square&logo=wechat&logoColor=2aae67" title="微信" alt="微信" />
+    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=flat-square&logo=wechat&logoColor=2aae67" title="点击添加微信好友" alt="微信" />
   </a>
 </p>
 
