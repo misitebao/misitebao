@@ -36,11 +36,14 @@
   <a href="https://weibo.com/misitebao">
     <img src="https://img.shields.io/badge/Weibo-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo&logoColor=f56e35" title="Weibo" alt="Weibo" />
   </a>
-  <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
-    <img src="https://img.shields.io/badge/QQ-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="QQ" alt="QQ" />
-  </a>
   <a href="https://space.bilibili.com/97480642/">
     <img src="https://img.shields.io/badge/Bilibili-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="Bilibili" alt="Bilibili" />
+  </a>
+  <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
+    <img src="https://img.shields.io/badge/QQ-1028817941-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="QQ" alt="QQ" />
+  </a>
+  <a href="https://cdn.jsdelivr.net/gh/misitebao/misitebao@main/img/wechat-misitebao_work.jpg">
+    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=flat-square&logo=wechat&logoColor=2aae67" title="WeChat" alt="WeChat" />
   </a>
 </p>
 
