@@ -65,15 +65,15 @@
 - [Tigaui](https://github.com/tigateam/tigaui) - Tigaui is a high quality component library based on Vue. _developing..._
 - [Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language. _developing..._
 - [Mebius](https://github.com/tigateam/mebius) - Mebius is a static website generator based on Go and Markdown. _developing..._
-- [tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - Background management system template based on `Tigago` and `Vue`. _developing..._
 - [Standard Repository](https://github.com/misitebao/standard-repository) - 🚀 Standard Repository Template.
+- [tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - Background management system template based on `Tigago` and `Vue`. _developing..._
 - [template-multi-page-vue-ssr](https://github.com/misitebao/template-multi-page-vue-ssr) - A multi-page server-side rendering project template based on Webpack + Vue.
 - [learning-go](https://github.com/misitebao/learning-go) - Go language study notes.
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router.
-- [Awesome Wails](https://github.com/misitebao/awesome-wails) - A carefully selected list of Wails applications.
+- [awesome-wails](https://github.com/misitebao/awesome-wails) - A carefully selected list of Wails applications.
 
 #### Contributor
 
-- [Wails: A cross-platform framework that supports the use of Go and Web technologies to build desktop applications](https://wails.app/)
-- [Vite](https://vitejs.dev/)
-- [Vitepress](https://vitepress.vuejs.org/)
+- [Wails](https://wails.app/) - A cross-platform framework that supports the use of Go and Web technologies to build desktop applications.
+- [Vite](https://vitejs.dev/) - Next generation frontend tooling.
+- [Vitepress](https://vitepress.vuejs.org/) - Vite & Vue powered static site generator.
