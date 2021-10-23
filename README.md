@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://misitebao.com">
     <img src="https://cdn.jsdelivr.net/gh/misitebao/misitebao@master/img/top_logo.png" title="Misitebao's Homepage" alt="Misitebao's Homepage" />
   </a>
-</p>
+</p> -->
 
 [**English**](README.md) | [**简体中文**](README.zh-Hans.md)
 
