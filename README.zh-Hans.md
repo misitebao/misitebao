@@ -71,9 +71,12 @@
 - [learning-go](https://github.com/misitebao/learning-go) - Go 语言学习笔记。
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板。
 - [awesome-wails](https://github.com/misitebao/awesome-wails) - 精心挑选的 Wails 应用程序列表。
+- [hugo-theme-misilog](https://github.com/misitebao/hugo-theme-misilog) - 一个简洁、优雅但强大的 Hugo 博客主题。 _正在开发中。。。_
+- [hexo-theme-misilog](https://github.com/misitebao/hexo-theme-misilog) - 一个简洁、优雅但强大的 Hexo 博客主题。 _正在开发中。。。_
 
 #### 贡献
 
 - [Wails](https://wails.app/) - 一个支持使用 Go 和 Web 技术构建桌面应用程序的跨平台框架。
 - [Vite](https://vitejs.dev/) - 下一代前端构建工具。
 - [Vitepress](https://vitepress.vuejs.org/) - Vite & Vue 驱动的静态网站生成器。
+- [Hugo](https://github.com/gohugoio) - 一个用 GoLang 构建的快速灵活的静态站点生成器。

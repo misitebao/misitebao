@@ -71,9 +71,12 @@
 - [learning-go](https://github.com/misitebao/learning-go) - Go language study notes.
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router.
 - [awesome-wails](https://github.com/misitebao/awesome-wails) - A carefully selected list of Wails applications.
+- [hugo-theme-misilog](https://github.com/misitebao/hugo-theme-misilog) - A clean, elegant but advanced blog theme for Hugo. _developing..._
+- [hexo-theme-misilog](https://github.com/misitebao/hexo-theme-misilog) - A clean, elegant but advanced blog theme for Hexo. _developing..._
 
 #### Contributor
 
 - [Wails](https://wails.app/) - A cross-platform framework that supports the use of Go and Web technologies to build desktop applications.
 - [Vite](https://vitejs.dev/) - Next generation frontend tooling.
 - [Vitepress](https://vitepress.vuejs.org/) - Vite & Vue powered static site generator.
+- [Hugo](https://github.com/gohugoio) - A Fast and Flexible Static Site Generator built with love in GoLang.
