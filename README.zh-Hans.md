@@ -63,8 +63,12 @@
 
 ### 项目
 
-[![standard-repository](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=standard-repository&&theme=buefy)](https://github.com/misitebao/standard-repository)
-[![wails-template-vue](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=wails-template-vue&&theme=buefy)](https://github.com/misitebao/wails-template-vue)
+<a href="https://github.com/misitebao/standard-repository" style="display:inline-block;width:50%;text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=standard-repository&&theme=cobalt" title="standard-repository" alt="standard-repository" />
+</a>
+<a href="https://github.com/misitebao/wails-template-vue" style="display:inline-block;width:50%;text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=wails-template-vue&&theme=cobalt" title="wails-template-vue" alt="wails-template-vue" />
+</a>
 
 #### 个人
 
