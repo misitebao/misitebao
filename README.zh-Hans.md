@@ -63,6 +63,9 @@
 
 ### 项目
 
+[![standard-repository](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=standard-repository&&theme=buefy)](https://github.com/misitebao/standard-repository)
+[![wails-template-vue](https://github-readme-stats.vercel.app/api/pin/?username=misitebao&repo=wails-template-vue&&theme=buefy)](https://github.com/misitebao/wails-template-vue)
+
 #### 个人
 
 - [Tigaui](https://github.com/tigateam/tigaui) - Tigaui 是基于 Vue 的高质量组件库。 _正在开发中。。。_
