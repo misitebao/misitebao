@@ -25,28 +25,28 @@
 
 <p align="left">
   <a href="https://twitter.com/misitebao">
-    <img src="https://img.shields.io/badge/Twitter-Misitebao-1d9bf0?style=flat-square&logo=twitter" title="Click to visit my Twitter homepage" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Misitebao-1d9bf0?style=for-the-badge&logo=twitter" title="Click to visit my Twitter homepage" alt="Twitter" />
   </a>
   <a href="https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g">
-    <img src="https://img.shields.io/badge/Youtube-Misitebao-ff0000?style=flat-square&logo=youtube&logoColor=ff0000" title="Click to visit my Youtube channel" alt="Youtube" />
+    <img src="https://img.shields.io/badge/Youtube-Misitebao-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000" title="Click to visit my Youtube channel" alt="Youtube" />
   </a>
   <a href="https://weibo.com/misitebao">
-    <img src="https://img.shields.io/badge/Weibo-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=flat-square&logo=sinaweibo&logoColor=f56e35" title="Click to visit my Weibo homepage" alt="Weibo" />
+    <img src="https://img.shields.io/badge/Weibo-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-f56e35?style=for-the-badge&logo=sinaweibo&logoColor=f56e35" title="Click to visit my Weibo homepage" alt="Weibo" />
   </a>
   <a href="https://space.bilibili.com/97480642/">
-    <img src="https://img.shields.io/badge/Bilibili-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=flat-square&logo=bilibili" title="Click to visit my Bilibili space" alt="Bilibili" />
+    <img src="https://img.shields.io/badge/Bilibili-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-00a1d6?style=for-the-badge&logo=bilibili" title="Click to visit my Bilibili space" alt="Bilibili" />
   </a>
   <a href="https://www.zhihu.com/people/misitebao">
-    <img src="https://img.shields.io/badge/Zhihu-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=flat-square&logo=zhihu" title="Click to visit my Zhihu homepage" alt="Zhihu" />
+    <img src="https://img.shields.io/badge/Zhihu-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=for-the-badge&logo=zhihu" title="Click to visit my Zhihu homepage" alt="Zhihu" />
   </a>
   <a href="https://juejin.cn/user/2295436009291246">
-    <img src="https://img.shields.io/badge/Juejin-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-1e80ff?style=flat-square" title="Click to visit my Juejin homepage" alt="Juejin" />
+    <img src="https://img.shields.io/badge/Juejin-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-1e80ff?style=for-the-badge" title="Click to visit my Juejin homepage" alt="Juejin" />
   </a>
   <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
-    <img src="https://img.shields.io/badge/QQ-1028817941-e91b26?style=flat-square&logo=tencentqq&logoColor=e91b26" title="Click to add QQ friends" alt="QQ" />
+    <img src="https://img.shields.io/badge/QQ-1028817941-e91b26?style=for-the-badge&logo=tencentqq&logoColor=e91b26" title="Click to add QQ friends" alt="QQ" />
   </a>
   <a href="https://cdn.jsdelivr.net/gh/misitebao/misitebao@main/img/wechat-misitebao_work.jpg">
-    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=flat-square&logo=wechat&logoColor=2aae67" title="Click to add WeChat friends" alt="WeChat" />
+    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=for-the-badge&logo=wechat&logoColor=2aae67" title="Click to add WeChat friends" alt="WeChat" />
   </a>
 </p>
 
