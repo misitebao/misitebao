@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-0066ff?style=for-the-badge&logo=zhihu" title="点击访问我的知乎主页" alt="知乎" />
   </a>
   <a href="https://juejin.cn/user/2295436009291246">
-    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-1e80ff?style=for-the-badge" title="点击访问我的掘金主页" alt="掘金" />
+    <img src="https://img.shields.io/badge/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91-%E7%B1%B3%E5%8F%B8%E7%89%B9%E5%8C%85-1e80ff?style=for-the-badge" title="点击访问我的掘金主页" alt="掘金" />
   </a>
   <a href="http://sighttp.qq.com/authd?IDKEY=2471fe9069e51df4d0985cdf772402eb1e1168da6b422d10">
     <img src="https://img.shields.io/badge/QQ-1028817941-e91b26?style=for-the-badge&logo=tencentqq&logoColor=e91b26" title="点击添加QQ好友" alt="QQ" />
