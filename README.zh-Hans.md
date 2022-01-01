@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/QQ-1028817941-e91b26?style=for-the-badge&logo=tencentqq&logoColor=e91b26" title="点击添加QQ好友" alt="QQ" />
   </a>
   <a href="https://cdn.jsdelivr.net/gh/misitebao/misitebao@main/img/wechat-misitebao_work.jpg">
-    <img src="https://img.shields.io/badge/WeChat-misitebao__work-2aae67?style=for-the-badge&logo=wechat&logoColor=2aae67" title="点击添加微信好友" alt="微信" />
+    <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-misitebao__work-2aae67?style=for-the-badge&logo=wechat&logoColor=2aae67" title="点击添加微信好友" alt="微信" />
   </a>
 </p>
 
