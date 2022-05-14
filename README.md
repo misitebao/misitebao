@@ -74,17 +74,17 @@
 
 #### Personal
 
-- [Tigaui](https://github.com/tigateam/tigaui) - Tigaui is a high quality component library based on Vue. _developing..._
-- [Tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language. _developing..._
-- [Mebius](https://github.com/tigateam/mebius) - Mebius is a static website generator based on Go and Markdown. _developing..._
-- [Standard Repository](https://github.com/misitebao/standard-repository) - 🚀 Standard Repository Template.
+- [tigaui](https://github.com/tigateam/tigaui) - Tigaui is a high quality component library based on Vue. _developing..._
+- [tigago](https://github.com/tigateam/tigago) - A modular framework based on Go language. _developing..._
+- [mebius](https://github.com/tigateam/mebius) - Mebius is a static website generator based on Go and Markdown. _developing..._
+- [standard-repository](https://github.com/misitebao/standard-repository) - 🚀 Standard Repository Template.
 - [tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - Background management system template based on `Tigago` and `Vue`. _developing..._
 - [template-multi-page-vue-ssr](https://github.com/misitebao/template-multi-page-vue-ssr) - A multi-page server-side rendering project template based on Webpack + Vue.
 - [learning-go](https://github.com/misitebao/learning-go) - Go language study notes.
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - A Wails template based on Vue and Vue-Router.
-- [awesome-wails](https://github.com/misitebao/awesome-wails) - A carefully selected list of Wails applications.
 - [hugo-theme-misilog](https://github.com/misitebao/hugo-theme-misilog) - A clean, elegant but advanced blog theme for Hugo. _developing..._
 - [hexo-theme-misilog](https://github.com/misitebao/hexo-theme-misilog) - A clean, elegant but advanced blog theme for Hexo. _developing..._
+- [video2srt](https://github.com/misitebao/video2srt) - A tool for converting video to srt file. _正在开发中。。。_
 
 #### Contributor
 

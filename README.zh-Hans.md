@@ -74,17 +74,17 @@
 
 #### 个人
 
-- [Tigaui](https://github.com/tigateam/tigaui) - Tigaui 是基于 Vue 的高质量组件库。 _正在开发中。。。_
-- [Tigago](https://github.com/tigateam/tigago) - 基于 Go 语言的模块化框架。 _正在开发中。。。_
-- [Mebius](https://github.com/tigateam/mebius) - Mebius 是一个基于 Go 和 Markdown 的静态网站生成器。 _正在开发中。。。_
-- [Standard Repository](https://github.com/misitebao/standard-repository) - 🚀 标准存储库模板。
+- [tigaui](https://github.com/tigateam/tigaui) - Tigaui 是基于 Vue 的高质量组件库。 _正在开发中。。。_
+- [tigago](https://github.com/tigateam/tigago) - 基于 Go 语言的模块化框架。 _正在开发中。。。_
+- [mebius](https://github.com/tigateam/mebius) - Mebius 是一个基于 Go 和 Markdown 的静态网站生成器。 _正在开发中。。。_
+- [standard-repository](https://github.com/misitebao/standard-repository) - 🚀 标准存储库模板。
 - [tigago-vue-admin](https://github.com/tigateam/tigago-vue-admin) - 基于 Tigago 和 Vue 的后台管理系统模板。 _正在开发中。。。_
 - [template-multi-page-vue-ssr](https://github.com/misitebao/template-multi-page-vue-ssr) - 一个基于 Webpack + Vue 的多页面服务端渲染项目模板。
 - [learning-go](https://github.com/misitebao/learning-go) - Go 语言学习笔记。
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板。
-- [awesome-wails](https://github.com/misitebao/awesome-wails) - 精心挑选的 Wails 应用程序列表。
 - [hugo-theme-misilog](https://github.com/misitebao/hugo-theme-misilog) - 一个简洁、优雅但强大的 Hugo 博客主题。 _正在开发中。。。_
 - [hexo-theme-misilog](https://github.com/misitebao/hexo-theme-misilog) - 一个简洁、优雅但强大的 Hexo 博客主题。 _正在开发中。。。_
+- [video2srt](https://github.com/misitebao/video2srt) - 一个视频导出SRT字幕文件的工具。 _正在开发中。。。_
 
 #### 贡献
 
