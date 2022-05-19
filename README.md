@@ -54,7 +54,19 @@
 
 #### Videos
 
+<!-- video-start -->
+
+- [Go1.16 New features Go embed](https://www.youtube.com/watch?v=EbMjppHEKGI)
+- [👉 More videos](https://www.youtube.com/channel/UCGlgW9t0HnKDlkcS1dH7X3g)
+<!-- video-end -->
+
 #### Posts
+
+<!-- post-start -->
+
+- [More elegant use of go and web technologies to develop cross-platform desktop applications](https://blog.misitebao.com/en/posts/go-and-web-technology-to-develop-cross-platform-desktop-applications/)
+- [👉 More posts](https://blog.misitebao.com/en/posts/)
+<!-- post-end -->
 
 ### Project
 
