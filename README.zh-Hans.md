@@ -54,7 +54,19 @@
 
 #### 视频
 
+<!-- video-start -->
+
+- [Go1.16 新特性之 Go embed](https://www.bilibili.com/video/BV1LU4y1p7XZ)
+- [👉 更多视频](https://space.bilibili.com/97480642)
+<!-- video-end -->
+
 #### 帖子
+
+<!-- post-start -->
+
+- [更优雅的使用 go 和 web 技术开发跨平台桌面应用](https://blog.misitebao.com/posts/go-and-web-technology-to-develop-cross-platform-desktop-applications/)
+- [👉 更多帖子](https://blog.misitebao.com/posts/)
+<!-- post-end -->
 
 ### 项目
 
