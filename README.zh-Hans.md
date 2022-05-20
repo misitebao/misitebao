@@ -50,18 +50,15 @@
   </a>
 </p>
 
-### 网站
+### 最新动态
 
-<p align="left">
-  <a href="https://misitebao.com">
-    <img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5-https%3A%2F%2Fmisitebao.com-brightgreen?style=flat-square" title="我的主页" alt="我的主页" />
-  </a>
-  <a href="https://blog.misitebao.com">
-    <img src="https://img.shields.io/badge/%E7%B1%B3%E5%8F%B8%E5%8D%9A%E5%AE%A2-https%3A%2F%2Fblog.misitebao.com-brightgreen?style=flat-square" title="米司博客" alt="米司博客" />
-  </a>
-</p>
+#### 视频
+
+#### 帖子
 
 ### 项目
+
+#### 置顶
 
 <p  align="center">
   <a href="https://github.com/misitebao/standard-repository">
@@ -84,7 +81,7 @@
 - [wails-template-vue](https://github.com/misitebao/wails-template-vue) - 基于 Vue 和 Vue-Router 的 Wails 模板。
 - [hugo-theme-misilog](https://github.com/misitebao/hugo-theme-misilog) - 一个简洁、优雅但强大的 Hugo 博客主题。 _正在开发中。。。_
 - [hexo-theme-misilog](https://github.com/misitebao/hexo-theme-misilog) - 一个简洁、优雅但强大的 Hexo 博客主题。 _正在开发中。。。_
-- [video2srt](https://github.com/misitebao/video2srt) - 一个视频导出SRT字幕文件的工具。 _正在开发中。。。_
+- [video2srt](https://github.com/misitebao/video2srt) - 一个视频导出 SRT 字幕文件的工具。 _正在开发中。。。_
 
 #### 贡献
 
