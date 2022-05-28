@@ -1,0 +1,24 @@
+{
+  "name": "misitebao",
+  "version": "1.0.0",
+  "description": "Hi, I am Misitebao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "misitebao"
+  ],
+  "author": "Misitebao <misitebao@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "misitebao": "./bin/index.js",
+    "misi": "./bin/index.js"
+  },
+  "files": [
+    "./bin/**"
+  ],
+  "dependencies": {
+    "open": "^8.4.0"
+  }
+}
