@@ -9,7 +9,7 @@
 <h4 align="center">
     <a href="https://misitebao.com">homepage</a> ·
     <a href="https://blog.misitebao.com">blog</a> ·
-    <a href="https://misitebao.me/projects">projects</a> ·
+    <a href="https://misitebao.com/projects">projects</a> ·
     <a href="https://twitter.com/misitebao">twitter</a> ·
     <a href="https://misitebao.com/sponsors">sponsors</a>
 </h4>
