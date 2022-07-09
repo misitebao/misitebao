@@ -1,0 +1,15 @@
+[package]
+name = "misitebao"
+version = "0.1.0"
+authors = ["Misitebao <i@misitebao.com>"]
+description = "Hi, I am Misitebao"
+edition = "2021"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/misitebao/misitebao"
+keywords = ["misitebao"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+open = "3"
