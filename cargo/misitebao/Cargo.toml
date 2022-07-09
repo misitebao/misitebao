@@ -1,6 +1,6 @@
 [package]
 name = "misitebao"
-version = "0.1.0"
+version = "1.0.2"
 authors = ["Misitebao <i@misitebao.com>"]
 description = "Hi, I am Misitebao"
 edition = "2021"

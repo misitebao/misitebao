@@ -1,8 +1,8 @@
 {
   "name": "misitebao",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hi, I am Misitebao",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
