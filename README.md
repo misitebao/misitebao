@@ -1,20 +1,17 @@
-<strong align="center">
-<samp>
+# Misitebao
 
-[**English**](README.md) · [**简体中文**](README.zh-Hans.md)
+Hi, I am Misitebao.
 
-</samp>
-</strong>
+## Usage
 
-<strong align="center">
-<samp>
+Install the package using the `go install` command:
 
-<a href="https://misitebao.com">homepage</a> ·
-<a href="https://blog.misitebao.com">blog</a> ·
-<a href="https://misitebao.com/projects">projects</a> ·
-<a href="https://twitter.com/misitebao">tweets</a> ·
-<a href="https://misitebao.com/videos">videos</a> ·
-<a href="https://misitebao.com/sponsors">sponsors</a>
+```shell
+go install github.com/misitebao/misitebao/cmd/misitebao@latest
+```
 
-</samp>
-</strong>
+Once that's done, you can run this command inside the terminal...
+
+```shell
+misitebao
+```
