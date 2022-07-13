@@ -1,18 +1,19 @@
 {
   "name": "misitebao",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hi, I am Misitebao.",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "misitebao","misi"
+    "misitebao",
+    "misi"
   ],
   "homepage": "https://github.com/misitebao/misitebao",
   "bugs": {
-    "url" : "https://github.com/misitebao/misitebao/issues",
-    "email" : "i@misitebao.com"
+    "url": "https://github.com/misitebao/misitebao/issues",
+    "email": "i@misitebao.com"
   },
   "author": "Misitebao <i@misitebao.com>",
   "license": "MIT",
