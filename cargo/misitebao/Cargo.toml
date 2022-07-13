@@ -1,8 +1,9 @@
 [package]
 authors = ["Misitebao <i@misitebao.com>"]
-description = "Hi, I am Misitebao"
+description = "Hi, I am Misitebao."
 edition = "2021"
-keywords = ["misitebao"]
+homepage = "https://github.com/misitebao/misitebao"
+keywords = ["misitebao", "misi"]
 license = "MIT"
 name = "misitebao"
 readme = "README.md"
