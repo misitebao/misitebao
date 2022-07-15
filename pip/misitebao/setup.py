@@ -2,7 +2,9 @@ from setuptools import setup
 
 setup(
     name='misitebao',
-    version='1.0.0',
+    version='1.0.1',
+    keywords=["misitebao", "misi"],
+    license="MIT License",
     author='Misite Bao',
     author_email='i@misitebao.com',
     url='https://github.com/misitebao/misitebao',
