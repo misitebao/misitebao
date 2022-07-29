@@ -2,7 +2,7 @@
   "name": "misitebao",
   "version": "1.0.3",
   "description": "Hi, I am Misitebao.",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,7 +22,8 @@
     "misi": "./bin/index.js"
   },
   "files": [
-    "./bin/**"
+    "./bin/**",
+    "index.js"
   ],
   "repository": {
     "type": "git",
