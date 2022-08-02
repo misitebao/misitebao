@@ -2,9 +2,20 @@
   "name": "misitebao",
   "version": "1.1.0",
   "description": "Hi, I am Misitebao.",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup src/index.ts --dts --format cjs,esm",
+    "build:watch": "npm run build -- --watch src"
   },
   "keywords": [
     "misitebao",
@@ -23,7 +34,7 @@
   },
   "files": [
     "./bin/**",
-    "index.js"
+    "./dist/**"
   ],
   "repository": {
     "type": "git",
@@ -31,5 +42,8 @@
   },
   "dependencies": {
     "open": "^8.4.0"
+  },
+  "devDependencies": {
+    "tsup": "^6.2.1"
   }
 }
