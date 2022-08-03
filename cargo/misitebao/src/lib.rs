@@ -1,4 +1,18 @@
 //! Package misitebao exposes constant information
+//!
+//! # Usage
+//!
+//! Get user full name:
+//!
+//! ```no_run
+//! misitebao::FULLNAME;
+//! ```
+//!
+//! Get user email:
+//!
+//! ```no_run
+//! misitebao::EMAIL;
+//! ```
 
-pub const FULLNAME string = "Misite Bao"
-pub const EMAIL string = "i@misitebao.com"
+pub static FULLNAME: &'static str = "Misite Bao";
+pub static EMAIL: &'static str = "i@misitebao.com";
