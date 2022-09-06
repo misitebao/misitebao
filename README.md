@@ -16,6 +16,9 @@ Hi, I'm Misite Bao.
   <a href="https://crates.io/crates/misitebao">
     <img alt="Crates.io" src="https://img.shields.io/crates/v/misitebao"/>
   </a>
+  <a href="https://www.nuget.org/packages/misitebao">
+    <img alt="Nuget (with prereleases)" src="https://img.shields.io/nuget/vpre/misitebao"/>
+  </a>
   <a href="https://pypi.org/project/misitebao/">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/misitebao"/>
   </a>
