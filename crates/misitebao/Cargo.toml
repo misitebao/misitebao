@@ -1,6 +1,6 @@
 [package]
-authors = ["Misitebao <i@misitebao.com>"]
-description = "Hi, I am Misitebao."
+authors = ["Misite Bao <i@misitebao.com>"]
+description = "Hi, I am Misite Bao."
 edition = "2021"
 homepage = "https://github.com/misitebao/misitebao"
 keywords = ["misitebao", "misi"]

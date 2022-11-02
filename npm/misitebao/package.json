@@ -1,7 +1,7 @@
 {
   "name": "misitebao",
   "version": "1.3.0",
-  "description": "Hi, I am Misitebao.",
+  "description": "Hi, I am Misite Bao.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -26,7 +26,7 @@
     "url": "https://github.com/misitebao/misitebao/issues",
     "email": "i@misitebao.com"
   },
-  "author": "Misitebao <i@misitebao.com>",
+  "author": "Misite Bao <i@misitebao.com>",
   "license": "MIT",
   "bin": {
     "misitebao": "./bin/index.js",
