@@ -42,6 +42,7 @@ Hi, I'm Misite Bao.
 <a href="https://blog.misitebao.com">blog</a> ·
 <a href="https://misitebao.com/projects">projects</a> ·
 <a href="https://twitter.com/misitebao">tweets</a> ·
+<a href="https://discord.gg/rnt9jnD29v">discord</a> ·
 <a href="https://misitebao.com/videos">videos</a> ·
 <a href="https://misitebao.com/sponsors">sponsors</a>
 
