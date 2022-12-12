@@ -1,8 +1,7 @@
 #! /usr/bin/env node
+import open from "open";
 
-const open = require("open");
-
-const path = "https://misitebao.com";
+const path: string = "https://misitebao.com";
 
 (function main() {
   open(path)
