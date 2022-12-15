@@ -33,8 +33,8 @@
   "author": "Misite Bao <i@misitebao.com>",
   "license": "MIT",
   "bin": {
-    "misitebao": "./dist/cli.js",
-    "misi": "./dist/cli.js"
+    "misitebao": "./dist/cli.mjs",
+    "misi": "./dist/cli.mjs"
   },
   "files": [
     "./dist/**"
