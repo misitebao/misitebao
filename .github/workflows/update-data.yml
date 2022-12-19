@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout | 切换到部署分支
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: "main"
           submodules: true
@@ -21,11 +21,16 @@ jobs:
       - name: Setup Git | 设置Git
         run: |
           git config --local user.email "i@misitebao.com"
-          git config --local user.name "Bot"
+          git config --local user.name "Misite Bao"
 
       - name: Setup Go | 设置Go
-        uses: actions/setup-go@v2
+        uses: actions/setup-go@v4
 
-      - name: Run Scripts | 运行脚本
+      - name: Install Task
+        uses: arduino/setup-task@v1
+        with:
+          version: 3.x
+
+      - name: Update Data
         run: |
-          go run ./scripts/update-data.go
+          task update-data

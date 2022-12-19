@@ -1,0 +1,18 @@
+# https://taskfile.dev
+
+version: "3"
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  default:
+    cmds:
+      - echo "{{.GREETING}}"
+    silent: true
+
+  update-data:
+    dir: ./tools
+    cmds:
+      - go run update-data.go
+    silent: true
