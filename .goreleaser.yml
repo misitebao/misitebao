@@ -5,7 +5,7 @@ project_name: MisiteBao
 
 before:
   hooks:
-    - go mod tidy
+    - go mod download
 
 builds:
   - id: b1
