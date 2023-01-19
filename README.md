@@ -38,7 +38,7 @@ Hi, I'm Misite Bao.
 <strong>
 <samp>
 
-<a href="https://misitebao.com">homepage</a> ·
+<a href="https://misitebao.com">home</a> ·
 <a href="https://blog.misitebao.com">blog</a> ·
 <a href="https://misitebao.com/projects">projects</a> ·
 <a href="https://twitter.com/misitebao">tweets</a> ·

@@ -42,7 +42,9 @@
 <a href="https://blog.misitebao.com">博客</a> ·
 <a href="https://misitebao.com/projects">项目</a> ·
 <a href="https://twitter.com/misitebao">推文</a> ·
+<a href="https://weibo.com/misitebao">微博</a> ·
 <a href="https://discord.gg/rnt9jnD29v">Discord</a> ·
+<a href="https://pd.qq.com/s/2gab60mmu">QQ 频道</a> ·
 <a href="https://misitebao.com/videos">视频</a> ·
 <a href="https://misitebao.com/sponsors">赞助</a>
 
