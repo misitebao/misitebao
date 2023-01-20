@@ -1,8 +1,8 @@
-name: Update Readme | 更新README
+name: Update Readme
 
 on:
-  schedule:
-    - cron: "0 8,20 * * *"
+  # schedule:
+  #   - cron: "0 8,20 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     if: github.repository == 'misitebao/misitebao'
 
     steps:
-      - name: Checkout | 切换到部署分支
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           ref: "main"
@@ -23,7 +23,7 @@ jobs:
           git config --local user.email "i@misitebao.com"
           git config --local user.name "Misite Bao"
 
-      - name: Setup Go | 设置Go
+      - name: Setup Go
         uses: actions/setup-go@v4
 
       - name: Install Task
