@@ -4,11 +4,11 @@
 //
 // Install the package using the `go install` command:
 //
-// 		go install github.com/misitebao/misitebao/cmd/misitebao@latest
+//	go install github.com/misitebao/misitebao/cmd/misitebao@latest
 //
 // Once that's done, you can run this command inside the terminal...
 //
-// 		misitebao
+//	misitebao
 package main
 
 import (
@@ -17,13 +17,15 @@ import (
 	"github.com/pkg/browser"
 )
 
-func main() {
-	var path = "https://misitebao.com"
+const URL = "https://misitebao.com"
 
-	err := browser.OpenURL(path)
+func main() {
+
+	err := browser.OpenURL(URL)
+
 	if err != nil {
-		panic(fmt.Sprintf("An error occurred when opening '%s': %s", path, err))
+		panic(fmt.Sprintf("An error occurred when opening '%s': %s", URL, err))
 	}
 
-	fmt.Printf("Opened '%s' successfully.", path)
+	fmt.Printf("Opened '%s' successfully.", URL)
 }
